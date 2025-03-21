@@ -1,0 +1,19 @@
+	Company Name, XYZ
+	Address: XYZ, Floor4
+    ---------------------------------------------
+     Employee Id		:    5
+     Salary of		:    Jan-2025
+     Generated On		:    21-03-2025  
+    ---------------------------------------------
+     Total Days		:    31
+     Total Present		:    29
+     Total Absent		:    2
+     Convenience		:    Rs.10000
+     Medical		:    Rs.4000
+     PF		:    Rs.5000
+     Gross Payment		:    Rs.80000
+     Net Salary		:    Rs.75838.71
+    ---------------------------------------------
+     This Is A Computer Generated Slip,
+     It Does Not Require Any Signature.
+    
